@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  color: #333;
+}
+
+body {
+  background: #f4f4f4;
+}
+
+h1 {
+  text-align: center;
+  margin: 2rem 0 0 0;
+  font-size: 5rem;
+}
+
+hr {
+  width:  15rem;
+  margin: 1rem auto;
+}
+
+div {
+  margin: 0 auto;
+  width: 25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  font-size: 1.2rem;
+  margin: 0.2rem 0;
+}
+
+a:hover {
+  color: crimson;
+}
